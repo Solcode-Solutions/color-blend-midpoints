@@ -1,5 +1,5 @@
 {
-  "name": "color-blend-midpoints",
+  "name": "@solcode/color-blend-midpoints",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
